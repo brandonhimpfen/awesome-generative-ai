@@ -45,6 +45,7 @@ Generative AI refers to algorithms (like GANs, VAEs, and LLMs) that can generate
 - **[Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release)** – Open-source image synthesis model.
 - **[DALL·E 3](https://openai.com/dall-e)** – Text-to-image model by OpenAI.
 - **[Midjourney](https://www.midjourney.com/)** – High-quality AI art generator from text prompts.
+- **[LandscapioAI](https://www.landscapioai.com/)** – AI landscape design generator that creates outdoor redesign concepts from yard photos.
 - **[Deep Dream Generator](https://deepdreamgenerator.com/)** – Tool for generating dream-like AI art using convolutional neural nets.
 
 ## Music & Audio Generation
