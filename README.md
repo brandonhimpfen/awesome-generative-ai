@@ -88,6 +88,7 @@ Generative AI refers to algorithms (like GANs, VAEs, and LLMs) that can generate
 - **[Common Crawl](https://commoncrawl.org/)** – Petabyte-scale web crawl data for training LLMs.
 - **[C4 (Colossal Clean Crawled Corpus)](https://www.tensorflow.org/datasets/catalog/c4)** – Text corpus for language model training.
 - **[LibriSpeech](https://www.openslr.org/12/)** – ASR dataset with thousands of hours of English speech.
+- **[Generated Gallery AI Image Dataset](https://generatedgallery.com/ai-image-dataset)** – Metadata-only AI image and prompt index with JSONL exports, weak labels, provenance, and schema.
 
 ## Learning Resources
 
