@@ -81,6 +81,7 @@ Generative AI refers to algorithms (like GANs, VAEs, and LLMs) that can generate
 - **[Diffusers](https://github.com/huggingface/diffusers)** – Library for diffusion models from Hugging Face.
 - **[LangChain](https://www.langchain.com/)** – Framework for building LLM applications with chaining and memory.
 - **[Transformers.js](https://xenova.github.io/transformers.js/)** – Run Hugging Face models in the browser with JavaScript.
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** – Trust scoring MCP server for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Remote streamable-http. `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## Datasets
 
