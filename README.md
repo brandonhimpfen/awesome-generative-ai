@@ -46,6 +46,7 @@ Generative AI refers to algorithms (like GANs, VAEs, and LLMs) that can generate
 - **[DALL·E 3](https://openai.com/dall-e)** – Text-to-image model by OpenAI.
 - **[Midjourney](https://www.midjourney.com/)** – High-quality AI art generator from text prompts.
 - **[Deep Dream Generator](https://deepdreamgenerator.com/)** – Tool for generating dream-like AI art using convolutional neural nets.
+- **[Seedream AI Studio](https://seedream4.video/)** – Multi-model AI image generation platform using ByteDance Seedream 5.0/4.5/4.0, ranked #1 in AI Image Arena. Supports up to 10 reference images, one-click video via Kling 2.1. Free tier available.
 
 ## Music & Audio Generation
 
