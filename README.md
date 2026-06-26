@@ -35,6 +35,7 @@ Generative AI refers to algorithms (like GANs, VAEs, and LLMs) that can generate
 ## Text Generation
 
 - **[GPT-4](https://openai.com/research/gpt-4)** – OpenAI’s latest large language model for text generation.
+- **[Auferet](https://auferet.com)** - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - **[Claude](https://www.anthropic.com/index/introducing-claude)** – Constitutional AI-powered chatbot from Anthropic.
 - **[Bard](https://bard.google.com/)** – Google’s conversational generative AI model.
 - **[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)** – Meta’s open large language model.
