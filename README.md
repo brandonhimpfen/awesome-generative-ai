@@ -49,6 +49,7 @@ Generative AI refers to algorithms (like GANs, VAEs, and LLMs) that can generate
 
 ## Music & Audio Generation
 
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - **[Riffusion](https://www.riffusion.com/)** – Real-time music generation using spectrograms and stable diffusion.
 - **[Jukebox (OpenAI)](https://openai.com/research/jukebox)** – AI model for generating music with vocals.
 - **[Soundraw](https://soundraw.io/)** – AI-powered music generator for creators.
