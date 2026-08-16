@@ -60,6 +60,7 @@ Generative AI refers to algorithms (like GANs, VAEs, and LLMs) that can generate
 - **[Pika Labs](https://www.pika.art/)** – AI-generated short-form video from text prompts.
 - **[Synthesia](https://www.synthesia.io/)** – Create AI-generated videos with avatars.
 - **[Kaiber](https://www.kaiber.ai/)** – Turn audio and prompts into stylized video.
+- **[videos.social](https://videos.social/?utm_source=brandonhimpfen-awesome-generative-ai&utm_medium=directory&utm_campaign=listing-wave-d)** – Turn blogs, PDFs, and prompts into editable faceless videos. Start free — 1 render included. Packs from $10. 1 credit = 1 render.
 
 ## Code Generation
 
