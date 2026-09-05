@@ -1,4 +1,4 @@
-# Awesome Generative AI [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Generative AI [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -104,11 +104,11 @@ Generative AI refers to algorithms (like GANs, VAEs, and LLMs) that can generate
 
 ## Related Awesome Lists
 
-- **[Awesome ChatGPT](https://github.com/awesomelistsio/awesome-chatgpt)**
-- **[Awesome Prompt Engineering](https://github.com/awesomelistsio/awesome-prompt-engineering)**
-- **[Awesome OpenAI](https://github.com/awesomelistsio/awesome-openai)**
-- **[Awesome LLMOps](https://github.com/awesomelistsio/awesome-llmops)**
-- **[Awesome AI Art](https://github.com/awesomelistsio/awesome-ai-art)**
+- **[Awesome ChatGPT](https://github.com/brandonhimpfen/awesome-chatgpt)**
+- **[Awesome Prompt Engineering](https://github.com/brandonhimpfen/awesome-prompt-engineering)**
+- **[Awesome OpenAI](https://github.com/brandonhimpfen/awesome-openai)**
+- **[Awesome LLMOps](https://github.com/brandonhimpfen/awesome-llmops)**
+- **[Awesome AI Art](https://github.com/brandonhimpfen/awesome-ai-art)**
 
 ## Contribute
 
