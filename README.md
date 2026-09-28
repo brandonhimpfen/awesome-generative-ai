@@ -47,6 +47,7 @@ Generative AI refers to algorithms (like GANs, VAEs, and LLMs) that can generate
 - **[DALL·E 3](https://openai.com/dall-e)** – Text-to-image model by OpenAI.
 - **[Midjourney](https://www.midjourney.com/)** – High-quality AI art generator from text prompts.
 - **[Deep Dream Generator](https://deepdreamgenerator.com/)** – Tool for generating dream-like AI art using convolutional neural nets.
+- **[Raphael AI](https://raphael.app)** – Free AI image generator for creating images from text prompts.
 
 ## Music & Audio Generation
 
