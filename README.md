@@ -58,6 +58,7 @@ Generative AI refers to algorithms (like GANs, VAEs, and LLMs) that can generate
 ## Video Generation
 
 - **[Runway ML](https://runwayml.com/)** – Platform for video creation using generative models like Gen-2.
+- **[Cyanvid](https://cyanvid.com/?utm_source=brandonhimpfen-awesome-generative-ai&utm_medium=directory&utm_campaign=backlinks)** – AI video generator from text or images; credit quotes before generate.
 - **[Pika Labs](https://www.pika.art/)** – AI-generated short-form video from text prompts.
 - **[Synthesia](https://www.synthesia.io/)** – Create AI-generated videos with avatars.
 - **[Kaiber](https://www.kaiber.ai/)** – Turn audio and prompts into stylized video.
